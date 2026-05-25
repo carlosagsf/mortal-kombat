@@ -14,7 +14,7 @@ Efeitos de hover em botões;
 
 Personalização visual com imagens de fundo;
 
-Ajustes para impressão da página (@media print).
+Ajustes para impressão da página.
 
 O projeto também serviu como prática para organização de código, separação entre estrutura e estilo, além de adaptação da interface para diferentes tamanhos de tela.
 
